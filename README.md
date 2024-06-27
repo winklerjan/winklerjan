@@ -1,5 +1,9 @@
 ### Welcome to my profile 👋
 
+## 🔭 I’m currently working on several dumb projects meant for dumb people including me
+## 🌱 I’m currently learning python
+## ⚡ Fun fact: The first computer bug was an actual bug! In 1947, engineers found a moth causing issues in the Harvard Mark II computer. This is how the term "debugging" came to be.
+
 <!--
 **winklerjan/winklerjan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -2,7 +2,7 @@
 
 🔭 I’m currently working on several dumb projects meant for dumb people including me <br>
 🌱 I’m currently learning python <br>
-⚡ Fun fact: The first computer bug was an actual bug! In 1947, engineers found a moth causing issues in the Harvard Mark II computer. This is how the term "debugging" came to be. <br>
+⚡ Fun fact: The first computer bug was an actual bug. In 1947, engineers found a moth causing issues in the Harvard Mark II computer. This is how the term "debugging" came to be. LOL <br>
 
 <!--
 **winklerjan/winklerjan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

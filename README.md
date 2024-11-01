@@ -1,4 +1,4 @@
-### welcome to my profile 👋
+### welcome to my profile 👾
 
 🔭 i’m currently working on several projects in .net and nexjs <br>
 🌱 i’m currently learning python <br>

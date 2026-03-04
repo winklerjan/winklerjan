@@ -1,4 +1,4 @@
-### welcome to my profile 👾
+### hi fellow alien 👾
 
 ✨ i’m currently working on several projects in .net and nexjs <br>
 ✨ also trying to learn python <br>
